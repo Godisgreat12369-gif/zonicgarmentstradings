@@ -1,5 +1,5 @@
-import ProductCard from '../components/ProductCard';
-import { Product } from '../types';
+import ProductCard from './ProductCard';
+import { Product } from './types';
 
 function SpecialDeals() {
   const dealProducts: Product[] = [

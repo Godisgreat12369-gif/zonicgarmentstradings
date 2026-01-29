@@ -1,12 +1,12 @@
-import HeroBanner from '../components/HeroBanner';
-import CollectionsCircular from '../components/CollectionsCircular';
-import FeaturedProducts from '../components/FeaturedProducts';
-import BrandStatement from '../components/BrandStatement';
-import CategoryHighlight from '../components/CategoryHighlight';
-import StyleCollections from '../components/StyleCollections';
-import TopPicks from '../components/TopPicks';
-import Testimonials from '../components/Testimonials';
-import TrustBadges from '../components/TrustBadges';
+import HeroBanner from './HeroBanner';
+import CollectionsCircular from './CollectionsCircular';
+import FeaturedProducts from './FeaturedProducts';
+import BrandStatement from './BrandStatement';
+import CategoryHighlight from './CategoryHighlight';
+import StyleCollections from './StyleCollections';
+import TopPicks from './TopPicks';
+import Testimonials from './Testimonials';
+import TrustBadges from './TrustBadges';
 
 function Home() {
   return (

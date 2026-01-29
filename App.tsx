@@ -1,14 +1,14 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import AnnouncementBar from './components/AnnouncementBar';
-import Header from './components/Header';
-import Footer from './components/Footer';
-import WhatsAppButton from './components/WhatsAppButton';
-import Home from './pages/Home';
-import Shop from './pages/Shop';
-import SpecialDeals from './pages/SpecialDeals';
-import B2BServices from './pages/B2BServices';
-import Contact from './pages/Contact';
-import NotFound from './pages/NotFound';
+import AnnouncementBar from './AnnouncementBar';
+import Header from './Header';
+import Footer from './Footer';
+import WhatsAppButton from './WhatsAppButton';
+import Home from './Home';
+import Shop from './Shop';
+import SpecialDeals from './SpecialDeals';
+import B2BServices from './B2BServices';
+import Contact from './Contact';
+import NotFound from './NotFound';
 
 function App() {
   return (

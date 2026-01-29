@@ -1,5 +1,5 @@
 import { ChevronLeft, ChevronRight } from 'lucide-react';
-import { Collection } from '../types';
+import { Collection } from './types';
 
 function CollectionsCircular() {
   const collections: Collection[] = [

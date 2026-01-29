@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Filter, SlidersHorizontal } from 'lucide-react';
-import ProductCard from '../components/ProductCard';
-import { Product } from '../types';
+import ProductCard from './ProductCard';
+import { Product } from './types';
 
 function Shop() {
   const [showFilters, setShowFilters] = useState(true);
